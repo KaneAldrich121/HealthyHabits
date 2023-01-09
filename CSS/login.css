@@ -1,0 +1,9 @@
+body{
+    position: relative;
+}
+.LoginTotal{
+    text-align: center;
+}
+.LoginInput{
+    margin-bottom: 10px;
+}
